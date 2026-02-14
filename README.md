@@ -15,13 +15,14 @@ Unlike standard symptom checkers, HeaSphere focuses on **Orchestration**: detect
 
 ### 1. The Orchestration Dashboard
 *Real-time risk monitoring with Explainable AI (SHAP) drivers.*
-![Dashboard View](docs/images/dashboard_overview.png)
-*(Place your screenshot 'image_e8193f.png' here)*
+![Dashboard View](/images/dashboard_overview.png)
+![Dashboard View](/images/dashboard_overview_2.png)
+
 
 ### 2. Live Logistics Dispatch (Leaflet.js)
 *Automated ambulance routing triggered when risk > 60%.*
-![Live Map Simulation](docs/images/live_map_dispatch.png)
-*(Place your screenshot 'image_e86afe.png' here)*
+![Live Map Simulation](/images/live_map_dispatch.png)
+
 
 ---
 

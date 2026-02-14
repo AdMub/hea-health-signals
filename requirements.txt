@@ -1,17 +1,13 @@
-# --- Core Web Framework ---
 Django>=5.0
+djangorestframework
 gunicorn
 whitenoise
-
-# --- Data Science & ML ---
 pandas
 numpy
 scikit-learn
 xgboost
 shap
 catboost
-
-# --- Utilities ---
 requests
 python-dotenv
 pillow

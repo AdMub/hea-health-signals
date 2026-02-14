@@ -11,6 +11,14 @@ Unlike standard symptom checkers, HeaSphere focuses on **Orchestration**: detect
 
 ---
 
+### 🌐 Live Demo
+**[Launch HeaSphere Dashboard](https://hea-sphere-live.onrender.com)**
+
+> **⚠️ Note for Visitors:** This project is deployed on a **Free Tier** instance. The server "sleeps" when inactive.  
+> **Please allow 1 minute for the initial wake-up** when you first click the link. It will be fast after that!
+
+---
+
 ## 📸 System Demo
 
 ### 1. The Orchestration Dashboard
